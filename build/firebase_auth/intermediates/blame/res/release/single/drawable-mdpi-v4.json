@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/sanket/FLUTTER/3codeX/book1/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/sanket/.gradle/caches/transforms-2/files-2.1/c873189900418f438f4a8906e7c919ae/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/sanket/FLUTTER/3codeX/book1/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/sanket/.gradle/caches/transforms-2/files-2.1/42f369a82167923f27de1186eaeb97e8/play-services-base-17.1.0/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/sanket/FLUTTER/3codeX/book1/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/sanket/.gradle/caches/transforms-2/files-2.1/42f369a82167923f27de1186eaeb97e8/play-services-base-17.1.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/sanket/FLUTTER/3codeX/book1/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/sanket/.gradle/caches/transforms-2/files-2.1/42f369a82167923f27de1186eaeb97e8/play-services-base-17.1.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/sanket/FLUTTER/3codeX/book1/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/sanket/.gradle/caches/transforms-2/files-2.1/c873189900418f438f4a8906e7c919ae/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/sanket/FLUTTER/3codeX/book1/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/sanket/.gradle/caches/transforms-2/files-2.1/c873189900418f438f4a8906e7c919ae/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/sanket/FLUTTER/3codeX/book1/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/sanket/.gradle/caches/transforms-2/files-2.1/42f369a82167923f27de1186eaeb97e8/play-services-base-17.1.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/sanket/FLUTTER/3codeX/book1/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/sanket/.gradle/caches/transforms-2/files-2.1/c873189900418f438f4a8906e7c919ae/core-1.1.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/sanket/FLUTTER/3codeX/book1/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/sanket/.gradle/caches/transforms-2/files-2.1/42f369a82167923f27de1186eaeb97e8/play-services-base-17.1.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/sanket/FLUTTER/3codeX/book1/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/sanket/.gradle/caches/transforms-2/files-2.1/42f369a82167923f27de1186eaeb97e8/play-services-base-17.1.0/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/sanket/FLUTTER/3codeX/book1/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/sanket/.gradle/caches/transforms-2/files-2.1/c873189900418f438f4a8906e7c919ae/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    }
+]

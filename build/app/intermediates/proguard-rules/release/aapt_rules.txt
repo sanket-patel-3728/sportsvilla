@@ -1,0 +1,20 @@
+# Referenced at /home/sanket/FLUTTER/3codeX/book1/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/sanket/FLUTTER/3codeX/book1/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:27
+-keep class com.book1.MainActivity { <init>(); }
+# Referenced at /home/sanket/FLUTTER/3codeX/book1/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:97
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /home/sanket/FLUTTER/3codeX/book1/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:118
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /home/sanket/FLUTTER/3codeX/book1/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:108
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /home/sanket/FLUTTER/3codeX/book1/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:114
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /home/sanket/FLUTTER/3codeX/book1/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:90
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at /home/sanket/FLUTTER/3codeX/book1/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:69
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /home/sanket/FLUTTER/3codeX/book1/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:102
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /home/sanket/FLUTTER/3codeX/book1/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
+-keep class io.flutter.app.FlutterApplication { <init>(); }

@@ -41,6 +41,43 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19219874422:android:334e95514dd2eaf92e9557",
+        "android_client_info": {
+          "package_name": "com.sports_villaarena_rajkot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19219874422-9degu8nh1q0pp5qppuhdoflo7qek3n63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sports_villaarena_rajkot",
+            "certificate_hash": "7a121e39c856137b5d51c333f1a72adf9ad872b7"
+          }
+        },
+        {
+          "client_id": "19219874422-6hb7bnuigd84rl8qhr7hguqmr0mcpgqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMqVg4LDg3hEbRnip5F-OeZ2Y4rfILrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19219874422-6hb7bnuigd84rl8qhr7hguqmr0mcpgqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
